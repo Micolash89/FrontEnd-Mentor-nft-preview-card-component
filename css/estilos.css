@@ -45,6 +45,7 @@ body {
 }
 
 .main__img:hover {
+  cursor: pointer;
   .div_img {
     position: absolute;
     background-color: var(--Cyan);
